@@ -25,7 +25,12 @@
 <?php
 //include header
 include('_includes/header.php');
+include('_includes/menu_home.php');
 ?>
+            </div>
+        </div>
+    </div>
+</header>
 <!-- WRAPPER-->
 <div id="wrapper-content"><!-- PAGE WRAPPER-->
     <div id="page-wrapper"><!-- MAIN CONTENT-->
@@ -48,8 +53,6 @@ include('_includes/footer.php');
             <div class="dots-loader"></div>
         </div>
     </div>
-    <a href="javascript:;" class="btn-theme-setting"><i class="fa fa-tint"></i></a>
-
     <div class="content-theme-setting"><h2 class="title">setting color</h2>
         <ul class="list-unstyled list-inline color-skins">
             <li data-color="color-1"></li>

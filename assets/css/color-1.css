@@ -1,3 +1,17 @@
+/* Styles I added */
+
+.red {
+    color: red;
+}
+
+.slider-4 {
+    background-image: url('http://dynamictestprep.com/assets/images/slider/home-page-4.jpg'); 
+    height: 663px; 
+    background-position: center;
+}
+
+/* Proprietary styles */
+
 .btn {
     border: 0;
     border-radius: 0;

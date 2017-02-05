@@ -258,7 +258,7 @@
             animateIn: 'fadeIn',
             nav: false,
             responsiveClass: true,
-            autoplay:true,
+            autoplay:false,
             autoplayTimeout: 7000,
             smartSpeed: 800,
             responsive: {

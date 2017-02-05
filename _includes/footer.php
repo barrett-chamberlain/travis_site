@@ -13,10 +13,6 @@
                                     <div class="info-list">
                                         <ul class="list-unstyled">
                                             <li><i class="fa fa-envelope-o"></i><a href="#">hello@edugate.com</a></li>
-                                            <li><i class="fa fa-phone"></i><a href="#">P: 3333 222 1111</a></li>
-                                            <li><i class="fa fa-map-marker"></i><a href="#"><p>99 Barnard St - Suite 111</p>
-
-                                                <p>United States - GA 22222</p></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -54,17 +50,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-2">
-                        <div class="col-md-3 col-sm-6 col-xs-6 sd380">
-                            <div class="gallery-widget widget">
-                                <div class="title-widget">GALLERY</div>
-                                <div class="content-widget">
-                                    <div class="gallery-list"><a href="#" class="thumb"><img src="assets/images/gallery/gallery-01.jpg" alt="" class="img-responsive"/></a><a href="#" class="thumb"><img src="assets/images/gallery/gallery-02.jpg" alt="" class="img-responsive"/></a><a href="#" class="thumb"><img src="assets/images/gallery/gallery-03.jpg" alt="" class="img-responsive"/></a><a href="#" class="thumb"><img src="assets/images/gallery/gallery-04.jpg" alt="" class="img-responsive"/></a><a href="#" class="thumb"><img src="assets/images/gallery/gallery-05.jpg" alt="" class="img-responsive"/></a><a href="#" class="thumb"><img src="assets/images/gallery/gallery-06.jpg" alt="" class="img-responsive"/></a><a href="#" class="thumb"><img src="assets/images/gallery/gallery-07.jpg" alt="" class="img-responsive"/></a><a href="#" class="thumb"><img src="assets/images/gallery/gallery-08.jpg"
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        alt="" class="img-responsive"/></a></div>
-                                    <div class="clearfix"></div>
-                                    <a href="#" class="view-more">View more&nbsp;<i class="fa fa-angle-double-right mls"></i></a></div>
-                            </div>
-                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-6 sd380">
                             <div class="mailing-widget widget">
                                 <div class="title-widget">MAILING</div>
@@ -75,7 +60,7 @@
                                     </form>
                                     <p>We respect your privacy</p>
 
-                                    <div class="socials"><a href="#" class="facebook"><i class="fa fa-facebook"></i></a><a href="#" class="google"><i class="fa fa-google-plus"></i></a><a href="#" class="twitter"><i class="fa fa-twitter"></i></a><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a><a href="#" class="blog"><i class="fa fa-rss"></i></a><a href="#" class="dribbble"><i class="fa fa-dribbble"></i></a></div>
+                                    <div class="socials"><a href="#" class="facebook"><i class="fa fa-facebook"></i></a><a href="#" class="google"><i class="fa fa-google-plus"></i></a><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></div>
                                 </div>
                             </div>
                         </div>
