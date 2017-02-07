@@ -35,6 +35,8 @@ include('_includes/menu_referrals.php');
 <div id="wrapper-content"><!-- PAGE WRAPPER-->
     <div id="page-wrapper"><!-- MAIN CONTENT-->
         <div class="main-content"><!-- CONTENT-->
+        <div class="section background-opacity page-title set-height-top contactSlide" style="background-image: url('../assets/images/slider/referrals-1.jpg');">
+                </div>
             <div class="section section-padding profile-teacher">
                     <div class="container">
                         <div class="profile-teacher-wrapper">
