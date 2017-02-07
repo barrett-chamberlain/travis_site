@@ -35,10 +35,43 @@ include('_includes/menu_referrals.php');
 <div id="wrapper-content"><!-- PAGE WRAPPER-->
     <div id="page-wrapper"><!-- MAIN CONTENT-->
         <div class="main-content"><!-- CONTENT-->
-            <?php
-            //include main slider
-            include('_includes/referrals_slider.php')
-            ?>
+            <div class="section section-padding profile-teacher">
+                    <div class="container">
+                        <div class="profile-teacher-wrapper">
+                            <div class="teacher-info">
+                                <div class="staff-item2 customize">
+                                    <div class="staff-item-wrapper">
+                                        <div class="staff-info"><a href="#" class="staff-avatar"><img src="assets/images/people-avatar-4.jpg" alt="" class="img-responsive"></a><a href="#" class="staff-name">barry join</a></div>
+                                    </div>
+                                    <div class="staff-socials"><a href="#" class="facebook"><i class="fa fa-facebook"></i></a><a href="#" class="google"><i class="fa fa-google-plus"></i></a><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></div>
+                                </div>
+                                <div class="teacher-des">
+                                    <div class="title">Barry Join</div>
+                                    <div class="subtitle">Vice Head Teacher</div>
+                                    <div class="content"><p class="content-detail">"The time, dedication and support Travis provided to our children was endless.  Words cannot express the appreciation, respect and admiration we have for him."<br />
+- Jilly R.  Sage Hill Parent<br /><br />
+
+"Travis was a fabulous tutor for my children! He worked with all of them. They all excelled working with him and achieved great results and are able to gain entrance to very selective universities."<br />
+- Vicki F.  CDM Parent<br /><br />
+
+"Travis worked one on one with my son in preparation for the ACT exam. Not only did they work out a great schedule, but they worked efficiently and hit the target goal right on. Throughout the entire process Travis kept my son motivated, but most importantly my son was very happy and never complained. Travis has a special demeanor and can connect with all personality types and ages in any setting. He is the best tutor we have come across and we would not hesitate to recommend him to anyone else in the future."<br />
+- Nina B.  University High School, Irvine Parent<br /><br />
+
+"There is no way I would have been as successful on the ACT without Travis. After three previous attempts with the test, his expertise not only helped increase my score to above my original goal, but also helped me regain confidence. He is thorough and methodical without being overwhelming--if anything, he helped me regain a sense of calm as I was studying for and taking the test. He is simply one-of-a-kind!"<br />
+- Brittany P.  Woodbridge Student<br /><br />
+
+"Travis tutored me for about two years in my latter half of high school. He provided me all the necessary tools to score extremely high on the SAT and subject tests. He cares so much about his students and their success and goals in life. I'm currently at the college of my dreams, University of Southern California, and without Travis' constant mentoring I am unsure if I would have been given this opportunity. I cannot think of someone more highly recommended in my community to not only tutor kids but also guide them through the trials of growing up than Travis."<br />
+- Sophie R. Sage Hill, then USC student<br /><br />
+
+"Travis is an extraordinary tutor. He is very smart, knows the subject matter and knows how to teach others. He is very patient, very generous with his time and he cares about his students. Hiring Travis was the best decision I made for my daughter's success and I recommend hims to others without reservation. Great guy and a great resource to make available to your kids!"<br />
+- Rob W. Dana Hills Parent<br /><br />
+
+Many further references available on request.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                </div>
     <!-- BUTTON BACK TO TOP-->
     <div id="back-top"><a href="#top"><i class="fa fa-angle-double-up"></i></a></div>
 </div><!--main-content-->

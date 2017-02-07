@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><title>Travis Chamberlain | Profile</title>
+<head><title>Edugate | Contact</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- LIBRARY FONT-->
@@ -25,7 +25,7 @@
 <?php
 //include header
 include('_includes/header.php');
-include('_includes/menu_profile.php');
+include('_includes/menu_contact.php');
 ?>
             </div>
         </div>
@@ -35,39 +35,48 @@ include('_includes/menu_profile.php');
 <div id="wrapper-content"><!-- PAGE WRAPPER-->
     <div id="page-wrapper"><!-- MAIN CONTENT-->
         <div class="main-content"><!-- CONTENT-->
-            <div class="section section-padding profile-teacher">
-                    <div class="container">
-                        <div class="profile-teacher-wrapper">
-                            <div class="teacher-info">
-                                <div class="staff-item2 customize">
-                                    <div class="staff-item-wrapper">
-                                        <div class="staff-info"><a href="#" class="staff-avatar"><img src="assets/images/profile-headshot.jpg" alt="" class="img-responsive"></a><a href="#" class="staff-name">barry join</a></div>
-                                    </div>
-                                </div>
-                                <div class="teacher-des">
-                                    <div class="title">Travis Chamberlain</div>
-                                    <div class="content"><p class="content-detail">
-                                    <p>Travis is accustomed to reaching summits; he earned an MSc with distinction from the London School of Economics and is now a fourth year grad student in philosophy of science at UCSD.<br /><br />
-
-For 15 years (over 7,000 hours) Travis has worked as a professional test prep tutor and has helped hundreds of Southern California students raise their test scores and improve their academic performances. <br /><br />
-
-Travis has been a top 1% tutor in Orange County for 7 plus years. He specializes in working with students who have plateaued using other test prep solutions.<br /><br />
-
-Improvements of more than 500 points on the old SAT and 9 points on the ACT are a testament to his commitment to his students.<br /><br />
-
-Travis leads by doing tests in tandem with his students. The result of this extra effort is a deep (he has 6 perfect scores now) working understanding of the psychometric basis of tests including the SAT, ACT, GRE, SSAT and ISEE. Travis can diagnose a student’s needs and provide custom assignments on the fly. Every tutoring session he creates custom notes for students to review. He is able to use prep materials from any company.<br /><br />
-
-Travis has a multifaceted psychological understanding of standardized tests. Among other specialties, he works with test anxiety, time management, executive function, and other more subtle aspects of test taking, aspects that tend to come up for tutorials that have plateaued with other test prep solutions.<br /><br />
-
-For those who want online tutoring, he uses dual cameras and hand-written notes emailed to the student as PDFs at the end of every session. In every way, Travis remains committed to helping students reach their potentials. References available on request. Academic and online rates vary.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            
+            <div class="content">
+            <div class="section background-opacity page-title set-height-top contactSlide">
                 </div>
+                <div class="section section-padding contact-main">
+                    <div class="container">
+                        <div class="contact-main-wrapper">
+                            <form class="bg-w-form contact-form noTopPadding">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group"><label class="control-label form-label">NAME <span class="highlight">*</span></label><input type="text" placeholder="" class="form-control form-input"/><!--label.control-label.form-label.warning-label(for="") Warning for the above !--></div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group"><label class="control-label form-label">EMAIL <span class="highlight">*</span></label><input type="text" placeholder="" class="form-control form-input"/><!--label.control-label.form-label.warning-label(for="")--></div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group"><label class="control-label form-label">PURPOSE</label><select class="form-control form-input selectbox">
+                                            <option value="">Please Select</option>
+                                            <option value="">example 1</option>
+                                            <option value="">example 2</option>
+                                            <option value="">example 3</option>
+                                        </select><!--label.control-label.form-label.warning-label(for="", hidden)--></div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group"><label class="control-label form-label">SUBJECT</label><input type="text" placeholder="" class="form-control form-input"/><!--label.control-label.form-label.warning-label(for="", hidden)--></div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="contact-question form-group"><label class="control-label form-label">HOW CAN WE HELP? <span class="highlight">*</span></label><textarea class="form-control form-input"></textarea></div>
+                                    </div>
+                                </div>
+                                <div class="contact-submit">
+                                    <button type="submit" class="btn btn-contact btn-green"><span>SUBMIT CONTACT</span></button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- BUTTON BACK TO TOP-->
     <div id="back-top"><a href="#top"><i class="fa fa-angle-double-up"></i></a></div>
-</div><!--main-content-->
+</div>
 <?php
 //include footer
 include('_includes/footer.php');
@@ -79,6 +88,7 @@ include('_includes/footer.php');
             <div class="dots-loader"></div>
         </div>
     </div>
+
     <div class="content-theme-setting"><h2 class="title">setting color</h2>
         <ul class="list-unstyled list-inline color-skins">
             <li data-color="color-1"></li>
@@ -94,11 +104,7 @@ include('_includes/footer.php');
         </ul>
     </div>
 </div>
-<!-- LOADING-->
-<div class="body-2 loading">
-    <div class="dots-loader"></div>
-</div>
-<!-- JAVASCRIPT LIBS--><!--script.--><!--    if ((Cookies.get('color-skin') != undefined) && (Cookies.get('color-skin') != 'color-1')) {--><!--        $('.logo .header-logo img').attr('src', 'assets/images/logo-' + Cookies.get('color-skin') + '.png');--><!--    } else if ((Cookies.get('color-skin') == undefined) || (Cookies.get('color-skin') == 'color-1')) {--><!--        $('.logo .header-logo img').attr('src', 'assets/images/logo-color-1.png');--><!--    }-->
+<!-- LOADING--><!-- JAVASCRIPT LIBS--><!--script.--><!--    if ((Cookies.get('color-skin') != undefined) && (Cookies.get('color-skin') != 'color-1')) {--><!--        $('.logo .header-logo img').attr('src', 'assets/images/logo-' + Cookies.get('color-skin') + '.png');--><!--    } else if ((Cookies.get('color-skin') == undefined) || (Cookies.get('color-skin') == 'color-1')) {--><!--        $('.logo .header-logo img').attr('src', 'assets/images/logo-color-1.png');--><!--    }-->
 <script src="assets/libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="assets/libs/smooth-scroll/jquery-smoothscroll.js"></script>
 <script src="assets/libs/owl-carousel-2.0/owl.carousel.min.js"></script>
@@ -111,8 +117,7 @@ include('_includes/footer.php');
 <!-- MAIN JS-->
 <script src="assets/js/main.js"></script>
 <!-- LOADING SCRIPTS FOR PAGE-->
-<script src="assets/libs/isotope/isotope.pkgd.min.js"></script>
-<script src="assets/libs/isotope/fit-columns.js"></script>
-<script src="assets/js/pages/homepage.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAu6tm60TzeUo9rWpLnrQ7mrFn4JPMVje4&amp;amp;sensor=false"></script>
+<script src="assets/js/pages/contact.js"></script>
 </body>
 </html>

@@ -1,15 +1,41 @@
 /* Styles I added */
-
+.form-group > input {
+    border: 1px solid black!important;
+}
+.form-group > textarea {
+    border: 1px solid black!important;
+}
+.sbHolder {
+    border: 1px solid black!important;
+}
+.infooter{
+     border-top: none!important; 
+     padding-top: 0px!important; 
+ }
 .red {
     color: red;
 }
-
+.noTopPadding {
+    padding-top: 0px!important;
+}
+.contactSlide {
+    background-position: center!important;
+}
 .slider-4 {
     background-image: url('http://dynamictestprep.com/assets/images/slider/home-page-4.jpg'); 
     height: 663px; 
     background-position: center;
 }
 
+.edugate-widget.widget.email > i {
+    color: #86bc42;
+    margin-right: 5px;
+}
+
+.footer-main .footer-main-wrapper {
+    padding-top: 50px!important;
+    padding-bottom: 50px!important;
+}
 /* Proprietary styles */
 
 .btn {
